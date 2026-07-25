@@ -1,15 +1,12 @@
 # Employee Database Analysis
 
-## Objective
+## Lesson
+SQL Lesson 1
 
-Analyze employee information using SQL.
-
-## Skills Used
-
+## Concepts Learned
 - SELECT
-- WHERE
-- ORDER BY
+- FROM
+- *
 
 ## Status
-
 🚧 In Progress
